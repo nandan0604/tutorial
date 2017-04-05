@@ -1,5 +1,5 @@
 public class Employee{
-    String name;
+    String firstname;
     int age;
     String designation;
     double salary;
